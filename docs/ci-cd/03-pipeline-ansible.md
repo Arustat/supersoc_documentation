@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
 title: Pipeline Ansible
-description: Étapes de configuration et de déploiement des services SOC (lint, dry-run, staging, production, rollback).
+description: "Étapes de configuration et de déploiement des services SOC (lint, dry-run, staging, production, rollback)."
 ---
 
 # Pipeline Ansible — Configuration & déploiement

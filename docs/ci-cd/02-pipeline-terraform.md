@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 title: Pipeline Terraform
-description: Étapes de provisioning de l'infrastructure (validate, plan, apply).
+description: "Étapes de provisioning de l'infrastructure (validate, plan, apply)."
 ---
 
 # Pipeline Terraform — Provisioning

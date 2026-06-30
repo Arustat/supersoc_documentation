@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: Vue d'ensemble
+title: "Vue d'ensemble"
 description: Architecture générale de la chaîne CI/CD de SuperSOC.
 ---
 
@@ -12,7 +12,7 @@ Elle poursuit trois objectifs :
 
 - **Reproductibilité** — toute l'infrastructure est décrite en code (Terraform, Ansible) et rejouable à l'identique.
 - **Sécurité du déploiement** — séparation stricte des étapes, déploiement de production manuel et protégé.
-- **DevSecOps** — intégration de contrôles de sécurité automatisés dans la chaîne (voir [Sécurité dans la CI](./04-securite-ci)).
+- **DevSecOps** — intégration de contrôles de sécurité automatisés dans la chaîne (voir la page « Sécurité dans la CI »).
 
 ## Deux chaînes complémentaires
 

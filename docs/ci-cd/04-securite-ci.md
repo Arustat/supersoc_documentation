@@ -1,7 +1,7 @@
 ---
 sidebar_position: 4
-title: Sécurité dans la CI (DevSecOps)
-description: Intégration des contrôles de sécurité automatisés dans la chaîne CI/CD — scan d'images, détection de secrets, analyse statique, tests.
+title: "Sécurité dans la CI (DevSecOps)"
+description: "Intégration des contrôles de sécurité automatisés dans la chaîne CI/CD — scan d'images, détection de secrets, analyse statique, tests."
 ---
 
 # Sécurité dans la CI — DevSecOps

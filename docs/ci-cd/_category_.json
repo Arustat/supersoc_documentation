@@ -1,9 +1,4 @@
 {
   "label": "CI/CD & DevSecOps",
-  "position": 4,
-  "link": {
-    "type": "generated-index",
-    "title": "CI/CD & DevSecOps",
-    "description": "Pipelines d'intégration et de déploiement continus de SuperSOC : provisioning Terraform, déploiement Ansible, et intégration de la sécurité dans la chaîne CI/CD (DevSecOps)."
-  }
+  "position": 6
 }
